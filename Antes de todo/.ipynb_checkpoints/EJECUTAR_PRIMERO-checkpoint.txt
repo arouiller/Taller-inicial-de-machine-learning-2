@@ -1,15 +1,22 @@
 Descargar anaconda 
 https://www.anaconda.com/download
 
+Descargar repositorio
+https://github.com/arouiller/Taller-inicial-de-machine-learning-2
+
+Descomprimir datos 
+(/data/beer_review.7z)
+
+Ejecutar miniconda 
+(desde el menu de windows lo pueden encontrar como "Anaconda Prompt (miniconda3)")
+
 Recrear entorno (basado en)
 https://medium.com/swlh/setting-up-a-conda-environment-in-less-than-5-minutes-e64d8fc338e4
 conda env create -f entorno_analisis_cervezas.yml
 
-Quitar entorno
-conda remove --name ENV_NAME (analisis_cervezas) --all
-
 Activar entorno
 conda activate analisis_cervezas
 
-Lanzar Jupiter lab
-jupiter lab
+Lanzar Jupyter lab
+jupyter lab
+
