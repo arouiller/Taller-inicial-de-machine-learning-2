@@ -25,12 +25,7 @@ NO
 NO
 NO
 NO
-NO
-NO
-NO
-NO
-NO
-NO
+SI
 NO
 NO
 NO
@@ -99,6 +94,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -160,6 +156,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -169,6 +166,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -211,7 +209,6 @@ NO
 NO
 NO
 SI
-NO
 NO
 NO
 NO
@@ -229,7 +226,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -257,6 +253,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -293,7 +290,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -331,7 +327,7 @@ NO
 NO
 NO
 NO
-NO
+SI
 NO
 NO
 NO
@@ -365,6 +361,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -384,6 +381,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -395,7 +393,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -405,12 +402,14 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -448,6 +447,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -493,6 +493,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -510,7 +511,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -549,6 +549,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -562,7 +563,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -624,7 +624,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -683,7 +682,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -699,6 +697,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -706,7 +705,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -719,7 +717,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -735,6 +732,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -763,7 +761,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -773,6 +770,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -810,7 +808,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -836,7 +833,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -857,6 +853,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -914,6 +911,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -944,6 +942,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1002,6 +1001,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1013,6 +1013,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1061,6 +1062,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1121,6 +1123,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1139,6 +1142,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1147,6 +1151,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1183,6 +1188,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1194,6 +1200,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1222,7 +1229,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -1309,6 +1315,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1353,7 +1360,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -1388,10 +1394,13 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
+SI
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1408,6 +1417,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1428,6 +1438,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1441,6 +1452,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1462,7 +1474,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -1475,8 +1486,6 @@ NO
 NO
 NO
 SI
-SI
-NO
 NO
 NO
 NO
@@ -1488,7 +1497,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -1501,12 +1509,10 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -1541,11 +1547,13 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1557,6 +1565,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1573,9 +1582,9 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1611,7 +1620,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -1620,7 +1628,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -1685,6 +1692,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1693,6 +1701,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1740,8 +1749,10 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1777,6 +1788,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -1820,8 +1832,7 @@ SI
 NO
 NO
 NO
-NO
-NO
+SI
 NO
 NO
 NO
@@ -1832,22 +1843,18 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -1865,7 +1872,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -1924,7 +1930,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -1987,7 +1992,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -1998,6 +2002,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -2015,6 +2020,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -2025,6 +2031,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -2047,6 +2054,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -2108,7 +2116,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -2185,6 +2192,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -2204,7 +2212,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -2224,6 +2231,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -2233,6 +2241,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -2246,6 +2255,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -2253,6 +2263,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -2283,6 +2294,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -2304,7 +2316,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -2378,7 +2389,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -2445,7 +2455,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -2589,8 +2598,6 @@ NO
 NO
 NO
 NO
-NO
-SI
 NO
 NO
 NO
@@ -2608,7 +2615,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -2649,13 +2655,13 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -2667,6 +2673,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -2679,15 +2686,10 @@ NO
 NO
 NO
 SI
-NO
-NO
 NO
 NO
 NO
 NO
-SI
-NO
-NO
 NO
 NO
 NO
@@ -2699,6 +2701,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -2712,7 +2715,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -2751,6 +2753,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -2879,6 +2882,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -2898,6 +2902,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -2922,7 +2927,6 @@ NO
 NO
 NO
 SI
-NO
 NO
 NO
 NO
@@ -2930,7 +2934,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -2980,10 +2983,10 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -3019,6 +3022,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -3056,7 +3060,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -3069,14 +3072,12 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -3091,6 +3092,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -3109,6 +3111,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -3158,7 +3161,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -3261,7 +3263,6 @@ NO
 NO
 SI
 NO
-SI
 NO
 NO
 NO
@@ -3301,6 +3302,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -3311,7 +3313,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -3365,6 +3366,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -3391,7 +3393,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -3410,7 +3411,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -3419,7 +3419,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -3471,6 +3470,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -3482,7 +3482,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -3491,17 +3490,18 @@ SI
 NO
 NO
 NO
+SI
 NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -3546,6 +3546,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -3565,6 +3566,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -3611,6 +3613,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -3643,6 +3646,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -3680,7 +3684,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -3709,6 +3712,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -3742,11 +3746,13 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -3769,7 +3775,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -3777,7 +3782,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -3836,6 +3840,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -3844,8 +3849,6 @@ NO
 NO
 NO
 NO
-SI
-SI
 NO
 NO
 NO
@@ -3880,6 +3883,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -3887,7 +3891,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -3907,7 +3910,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -3950,7 +3952,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -3978,6 +3979,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -4034,13 +4036,11 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -4071,6 +4071,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -4078,7 +4079,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -4090,6 +4090,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -4128,6 +4129,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -4156,8 +4158,6 @@ NO
 NO
 NO
 NO
-SI
-SI
 NO
 NO
 NO
@@ -4204,6 +4204,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -4260,10 +4261,12 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -4271,6 +4274,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -4294,7 +4298,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -4304,7 +4307,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -4340,6 +4342,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -4358,6 +4361,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -4375,7 +4379,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -4431,7 +4434,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -4474,6 +4476,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -4482,6 +4485,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -4491,7 +4495,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -4575,6 +4578,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -4604,6 +4608,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -4623,7 +4628,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -4633,14 +4637,11 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
 NO
-SI
 NO
-SI
 NO
 NO
 NO
@@ -4657,7 +4658,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -4684,7 +4684,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -4715,7 +4714,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -4778,6 +4776,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -4813,6 +4812,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -4846,12 +4846,10 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -4867,7 +4865,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -4883,7 +4880,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -4915,7 +4911,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -4985,7 +4980,8 @@ NO
 NO
 NO
 NO
-SI
+NO
+NO
 NO
 NO
 NO
@@ -4997,6 +4993,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -5020,6 +5017,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -5039,7 +5037,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -5135,11 +5132,14 @@ NO
 NO
 NO
 NO
+NO
+NO
 SI
 NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -5202,7 +5202,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -5268,6 +5267,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -5290,7 +5290,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -5362,6 +5361,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -5403,7 +5403,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -5433,6 +5432,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -5539,6 +5539,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -5556,6 +5557,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -5564,7 +5566,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -5574,7 +5575,9 @@ NO
 NO
 NO
 NO
+SI
 NO
+SI
 NO
 NO
 NO
@@ -5620,6 +5623,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -5679,7 +5683,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -5691,6 +5694,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -5728,6 +5732,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -5760,7 +5765,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -5792,6 +5796,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -5804,7 +5809,6 @@ NO
 NO
 NO
 SI
-NO
 NO
 NO
 NO
@@ -5819,7 +5823,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -5832,8 +5835,6 @@ NO
 NO
 NO
 NO
-NO
-SI
 NO
 NO
 NO
@@ -5855,7 +5856,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -5889,6 +5889,8 @@ NO
 NO
 NO
 NO
+NO
+SI
 NO
 NO
 NO
@@ -5900,6 +5902,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -5941,8 +5944,10 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
+SI
 NO
 NO
 NO
@@ -5983,6 +5988,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -6033,6 +6039,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -6069,8 +6076,6 @@ NO
 NO
 NO
 NO
-SI
-SI
 NO
 NO
 NO
@@ -6084,6 +6089,8 @@ NO
 NO
 NO
 NO
+NO
+SI
 NO
 NO
 NO
@@ -6096,6 +6103,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -6107,6 +6115,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -6134,6 +6143,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -6157,6 +6167,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -6166,6 +6177,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -6246,7 +6258,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -6306,6 +6317,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -6313,7 +6325,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -6324,7 +6335,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -6377,7 +6387,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -6450,6 +6459,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -6518,7 +6528,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -6546,7 +6555,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -6578,7 +6586,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -6626,7 +6633,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -6712,6 +6718,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -6722,16 +6729,15 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
-SI
 NO
 NO
 NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -6772,7 +6778,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -6793,6 +6798,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -6811,7 +6817,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -6843,6 +6848,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -6854,19 +6860,16 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -6875,6 +6878,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -6947,8 +6951,6 @@ NO
 NO
 NO
 NO
-SI
-SI
 NO
 NO
 NO
@@ -6970,8 +6972,10 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
+SI
 NO
 NO
 NO
@@ -6995,6 +6999,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -7016,9 +7021,9 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
+SI
 NO
 NO
 NO
@@ -7042,6 +7047,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -7081,6 +7087,7 @@ NO
 NO
 NO
 SI
+NO
 NO
 NO
 NO
@@ -7089,6 +7096,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -7112,6 +7120,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -7128,6 +7137,7 @@ NO
 NO
 NO
 SI
+NO
 NO
 NO
 NO
@@ -7152,6 +7162,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -7162,12 +7173,10 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -7178,7 +7187,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -7203,7 +7211,7 @@ NO
 NO
 NO
 NO
-SI
+NO
 NO
 NO
 NO
@@ -7232,6 +7240,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -7260,7 +7269,7 @@ NO
 NO
 NO
 NO
-SI
+NO
 NO
 NO
 NO
@@ -7359,7 +7368,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -7368,6 +7376,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -7399,7 +7408,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -7449,6 +7457,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -7478,6 +7487,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -7515,7 +7525,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -7564,6 +7573,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -7583,7 +7593,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -7617,7 +7626,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -7628,6 +7636,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -7639,7 +7648,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -7658,7 +7666,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -7777,12 +7784,11 @@ NO
 NO
 NO
 NO
-SI
 NO
+SI
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -7854,6 +7860,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -7873,6 +7880,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -7888,7 +7896,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -7933,7 +7940,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -7953,6 +7959,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -8010,6 +8017,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -8057,7 +8065,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -8106,7 +8113,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -8150,6 +8156,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -8215,6 +8222,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -8267,6 +8275,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -8292,6 +8301,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -8305,7 +8315,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -8339,7 +8348,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -8370,13 +8378,11 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -8389,6 +8395,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -8421,7 +8428,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -8442,6 +8448,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -8528,7 +8535,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -8552,6 +8558,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -8575,14 +8582,13 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
 NO
 NO
 NO
-SI
-SI
 NO
 NO
 NO
@@ -8629,10 +8635,8 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
-SI
 NO
 NO
 NO
@@ -8662,7 +8666,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -8733,13 +8736,14 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
-SI
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -8836,6 +8840,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -8858,9 +8863,7 @@ NO
 NO
 NO
 NO
-SI
 NO
-SI
 NO
 NO
 NO
@@ -8868,7 +8871,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -8901,6 +8903,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -8943,8 +8946,8 @@ NO
 NO
 NO
 NO
-SI
 NO
+SI
 NO
 NO
 NO
@@ -8971,7 +8974,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -8982,7 +8984,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -8991,7 +8992,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -9077,12 +9077,12 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -9091,8 +9091,6 @@ NO
 NO
 NO
 NO
-SI
-SI
 NO
 NO
 NO
@@ -9153,7 +9151,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -9197,6 +9194,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -9205,11 +9203,9 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -9218,7 +9214,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -9247,9 +9242,7 @@ NO
 NO
 NO
 NO
-SI
 NO
-SI
 NO
 NO
 NO
@@ -9287,8 +9280,6 @@ NO
 NO
 NO
 NO
-SI
-SI
 NO
 NO
 NO
@@ -9297,7 +9288,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -9403,23 +9393,24 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
-SI
 NO
 NO
 NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
 NO
 NO
 NO
+SI
 NO
+SI
 NO
 NO
 NO
@@ -9444,8 +9435,8 @@ NO
 NO
 NO
 NO
-SI
-SI
+NO
+NO
 NO
 NO
 SI
@@ -9508,6 +9499,7 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
@@ -9573,13 +9565,15 @@ NO
 NO
 NO
 NO
+NO
+SI
 NO
 NO
+SI
 NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -9600,7 +9594,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -9610,7 +9603,6 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -9668,13 +9660,13 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
 NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
@@ -9698,8 +9690,10 @@ NO
 NO
 NO
 NO
+SI
 NO
 NO
+SI
 NO
 NO
 NO
@@ -9727,13 +9721,13 @@ NO
 NO
 NO
 NO
-SI
 NO
 NO
 NO
 NO
 NO
-SI
+NO
+NO
 NO
 NO
 NO
@@ -9756,6 +9750,9 @@ NO
 NO
 NO
 NO
+SI
+NO
+NO
 NO
 NO
 NO
@@ -9771,6 +9768,9 @@ NO
 NO
 NO
 NO
+NO
+NO
+SI
 NO
 NO
 NO
