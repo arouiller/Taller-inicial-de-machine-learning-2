@@ -1,2 +1,5 @@
 
 data/.ipynb_checkpoints/*
+data/cervezas_resenias_unicas.csv
+data/beer_reviews.csv
+data/cerveza_puntuacion_agrupada_total.csv
